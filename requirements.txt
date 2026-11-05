@@ -10,3 +10,4 @@ nbconvert
 pillow
 pytesseract
 pytest
+ipython
